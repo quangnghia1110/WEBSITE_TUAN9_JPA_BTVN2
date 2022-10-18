@@ -1,0 +1,15 @@
+D:\HCMUTE-K21\k21-laptrinhhuongdoituong\OOP\InheritanceStudent\InheritanceStudent\bin\Debug\net6.0\InheritanceStudent.exe
+D:\HCMUTE-K21\k21-laptrinhhuongdoituong\OOP\InheritanceStudent\InheritanceStudent\bin\Debug\net6.0\InheritanceStudent.deps.json
+D:\HCMUTE-K21\k21-laptrinhhuongdoituong\OOP\InheritanceStudent\InheritanceStudent\bin\Debug\net6.0\InheritanceStudent.runtimeconfig.json
+D:\HCMUTE-K21\k21-laptrinhhuongdoituong\OOP\InheritanceStudent\InheritanceStudent\bin\Debug\net6.0\InheritanceStudent.dll
+D:\HCMUTE-K21\k21-laptrinhhuongdoituong\OOP\InheritanceStudent\InheritanceStudent\bin\Debug\net6.0\InheritanceStudent.pdb
+D:\HCMUTE-K21\k21-laptrinhhuongdoituong\OOP\InheritanceStudent\InheritanceStudent\obj\Debug\net6.0\InheritanceStudent.csproj.AssemblyReference.cache
+D:\HCMUTE-K21\k21-laptrinhhuongdoituong\OOP\InheritanceStudent\InheritanceStudent\obj\Debug\net6.0\InheritanceStudent.GeneratedMSBuildEditorConfig.editorconfig
+D:\HCMUTE-K21\k21-laptrinhhuongdoituong\OOP\InheritanceStudent\InheritanceStudent\obj\Debug\net6.0\InheritanceStudent.AssemblyInfoInputs.cache
+D:\HCMUTE-K21\k21-laptrinhhuongdoituong\OOP\InheritanceStudent\InheritanceStudent\obj\Debug\net6.0\InheritanceStudent.AssemblyInfo.cs
+D:\HCMUTE-K21\k21-laptrinhhuongdoituong\OOP\InheritanceStudent\InheritanceStudent\obj\Debug\net6.0\InheritanceStudent.csproj.CoreCompileInputs.cache
+D:\HCMUTE-K21\k21-laptrinhhuongdoituong\OOP\InheritanceStudent\InheritanceStudent\obj\Debug\net6.0\InheritanceStudent.dll
+D:\HCMUTE-K21\k21-laptrinhhuongdoituong\OOP\InheritanceStudent\InheritanceStudent\obj\Debug\net6.0\refint\InheritanceStudent.dll
+D:\HCMUTE-K21\k21-laptrinhhuongdoituong\OOP\InheritanceStudent\InheritanceStudent\obj\Debug\net6.0\InheritanceStudent.pdb
+D:\HCMUTE-K21\k21-laptrinhhuongdoituong\OOP\InheritanceStudent\InheritanceStudent\obj\Debug\net6.0\InheritanceStudent.genruntimeconfig.cache
+D:\HCMUTE-K21\k21-laptrinhhuongdoituong\OOP\InheritanceStudent\InheritanceStudent\obj\Debug\net6.0\ref\InheritanceStudent.dll
